@@ -1,1 +1,1 @@
-Python Files for the generation of the pie charts found in /figs/
+Python Files for the generation of the pie charts found in AnastasiosZ/CYStatComp2021/. Python files used for the generation of old pie charts in AnastasiosZ/CYStatComp2021/old and AnastasiosZ/CYStatComp2021/old_old are not provided because I forgot to save them.
